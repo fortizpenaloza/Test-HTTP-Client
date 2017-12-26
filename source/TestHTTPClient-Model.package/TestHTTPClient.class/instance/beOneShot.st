@@ -1,0 +1,4 @@
+options
+beOneShot
+	
+	"Do nothing"

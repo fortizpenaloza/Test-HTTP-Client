@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TestHTTPClient-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"expectedResponses",
+		"lastReponse"
+	],
+	"name" : "TestHTTPClient",
+	"type" : "normal"
+}
