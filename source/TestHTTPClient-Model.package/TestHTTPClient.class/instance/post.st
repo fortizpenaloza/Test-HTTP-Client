@@ -1,4 +1,5 @@
-as yet unclassified
+operations
 post
 
-	
+	lastReponse := expectedResponses removeFirst.
+	^ lastReponse contents

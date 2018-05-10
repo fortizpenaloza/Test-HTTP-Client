@@ -1,2 +1,4 @@
-as yet unclassified
-queryAt: aString put: aString2 
+accessing
+queryAt: aKey put: aValue
+
+	"Do nothing"

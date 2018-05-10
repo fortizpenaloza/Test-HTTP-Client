@@ -1,4 +1,5 @@
-as yet unclassified
+adding
 addPathSegment: aString 
 
+	"Do nothing"
 	
